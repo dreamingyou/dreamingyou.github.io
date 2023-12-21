@@ -1,3 +1,3 @@
-# dreamingyou.github.io
+# _Dreaming of You_
 
 * [Image Comparison](https://dreamingyou.github.io/comparison/)
